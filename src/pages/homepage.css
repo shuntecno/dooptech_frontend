@@ -1,0 +1,31 @@
+
+h1{
+    font-weight: bold !important;
+    font-family: 'Poppins' !important;
+}
+
+p{
+    padding-top: 10px;
+}
+
+.label{
+    text-align: center;
+    margin: 100px 40px;
+}
+
+  
+.hr {
+    margin: 0px 5px 0px 5px;
+    width: 60px;
+    opacity: 100%;
+    color: #009999;
+    border: 3px solid !important;
+    border-radius: 5px;
+  }
+
+
+ 
+
+  @media (max-width: 1199.98px) {
+   
+  }
